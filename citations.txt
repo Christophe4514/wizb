@@ -1,0 +1,22 @@
+Projet1.<br/> <hr/>
+Titre du projet <strong>"Mon suivi Medical dans Mon portable ."</strong><br/><hr/> 
+le projet est
+Porté par <strong>Makila lukian, Wizamo biliko et Luveto dialungana</strong>.<br/>
+Description " Le projet « mon suivi médicale dans mon portable » 
+est un projet qui permet la création d’une application mobile et un code USSD 
+facilitant ainsi la communication entre patient et service
+de santé, naturellement le corps soignant."
+: 
+Projet2.<br/><hr/>
+Titre du projet <strong> "Le Team Solid."</strong><br/><hr/>
+Description  "Le Team Solid est un Projet qui vise le travail en équipe
+dans le milieu estudiantine.<br/>
+C'est l'idée des <strong>Etudiants de L1 LMD FAC SCE/UNIKIN</strong> qui,
+se mettent ensemble pour essayé de résoudre des problème de la société 
+à l'aide des outils informatiques." 
+:
+Projet3.<br/><hr/>
+Titre du projet <strong> "ROBOT INTELLIGENT."</strong><br/><hr/>
+Description "Le Robot intelligent est un projet développé dans le but de montré<br/>
+ à la population congolaise ainsi que les jeunes informaticients du pays l'impact <br/>
+et les avancés de la programmation électronique avec le<strong> micro-controleur Arduino INO</strong> ."
